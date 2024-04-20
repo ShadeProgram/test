@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+#quiz {
+    overflow-y: scroll;
+}
+
+body{
+    background: #b5ebab;
+    font-family: 'Poppins', sans-serif;
+    margin: 20px;
+}
+
+.container {
+    margin: auto;
+    background-color: antiquewhite;
+    padding: 3%;
+}
+
+.header {
+    font-size: 220%;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    font-size: 35%;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.link a {
+    text-decoration: none;
+    color: #6abd79;
+}
+
+img {
+    position: absolute; 
+    top: 35px; 
+    right: 25px;
+}
+
+
+.content h1 {
+    margin-bottom: 2%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.content .def {
+    font-size: 160%;
+}
+
+.content .def1 {
+    font-size: 65%;
+    text-align: justify;
+}
+
+.content p {
+    font-family: 'Poppins', sans-serif;
+}
+    
+.content .per {
+    font-size: 110%;
+}
+
+.content .per1 {
+    font-size: 80%;
+}
+
+.content .indikator {
+    font-size: 70%;
+    margin-inline-start: 20px;
+}
+
+.content .ti {
+    font-size: 120%;
+}
+
+.content .ti1 {
+    font-size: 80%;
+}
+
+.content .penutup {
+    font-size: 90%;
+    font-weight: 500;
+}
+
+.content .shade {
+    font-size: 80%;
+    font-weight: 400;
+}
+
+.content .shade1 {
+    margin-bottom: 2%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
